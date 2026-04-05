@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+openai
+faiss-cpu
+pypdf
+sentence-transformers
+transformers
+huggingface-hub
+torch
+numpy
+flask
+python-dotenv
