@@ -1,0 +1,29 @@
+# Core LangChain (modern)
+# LangChain core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# OpenAI integration
+langchain-openai
+openai
+
+# Vector store
+faiss-cpu
+
+# Document loading
+pypdf
+
+# Embeddings (Hugging Face – local)
+sentence-transformers
+transformers
+huggingface-hub
+
+# Torch (CPU only – Windows safe)
+torch
+
+# Utilities
+numpy
+flask
+python-dotenv
